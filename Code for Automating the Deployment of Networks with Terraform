@@ -1,4 +1,5 @@
-provider.tf -------------------------------------------------------
+provider.tf ____
+(to be write in nano editor)
 
 provider "google" {}
 
